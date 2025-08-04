@@ -87,7 +87,7 @@ export default function Contact() {
           <div className="w-full md:w-[400px] h-[300px]">
             <iframe
               className="w-full h-full border-0"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117905.95613690435!2d39.01295942540509!3d6.568042805729705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x17b71b8b56d7b917%3A0x4074b131cd128b94!2sChire%20Town!5e1!3m2!1sen!2set!4v1722426205687!5m2!1sen!2set"
+              src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d229.4377489481682!2d38.4818093!3d7.040441!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2set!4v1754317504677!5m2!1sen!2set"
               loading="lazy"
               allowFullScreen
               referrerPolicy="no-referrer-when-downgrade"
