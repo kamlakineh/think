@@ -13,13 +13,13 @@ export default function Footer() {
             data-driven strategies with cultural expertise.
           </p>
           <div className="flex w-[80%] h-[60px] gap-x-[10px] mt-[20px]">
-            <a className="border-1 cursor-pointer  hover:bg-amber-800 border-gray-600 rounded-[50%] h-[40px] w-[40px] flex justify-center items-center">
+            <a href="https://www.instagram.com/think_digital4/" className="border-1 cursor-pointer  hover:bg-amber-800 border-gray-600 rounded-[50%] h-[40px] w-[40px] flex justify-center items-center">
               <img src="/logos/iconin.png" className="w-[20px] h-[20px]" />
             </a>
-            <a className="border-1 cursor-pointer  hover:bg-amber-800 border-gray-600 rounded-[50%] h-[40px] w-[40px] flex justify-center items-center">
+            <a href="https://t.me/thinkdigitalagency" className="border-1 cursor-pointer  hover:bg-amber-800 border-gray-600 rounded-[50%] h-[40px] w-[40px] flex justify-center items-center">
               <img src="/logos/icontel.png" className="w-[20px] h-[20px]" />
             </a>
-            <a className="border-1 cursor-pointer hover:bg-amber-800 border-gray-600 rounded-[50%] h-[40px] w-[40px] flex justify-center items-center">
+            <a href="https://www.tiktok.com/@think.digital.age?is_from_webapp=1&sender_device=pc" className="border-1 cursor-pointer hover:bg-amber-800 border-gray-600 rounded-[50%] h-[40px] w-[40px] flex justify-center items-center">
               <img src="/logos/icont.png" className="w-[20px] h-[20px]" />
             </a>
           </div>
