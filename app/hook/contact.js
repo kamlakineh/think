@@ -106,7 +106,7 @@ export default function Contact() {
                 value={form.name}
                 onChange={handleChange}
                 required
-                className="bg-white text-black w-full h-[40px] text-[30px] border-2 border-gray-300"
+                className="bg-white text-black w-full h-[40px] text-[20px] border-2 border-gray-300"
               />
             </label>
             <label className="flex flex-col gap-y-[10px] w-full">
@@ -117,7 +117,7 @@ export default function Contact() {
                 value={form.email}
                 onChange={handleChange}
                 required
-                className="bg-white text-black w-full h-[40px] text-[30px] border-2 border-gray-300"
+                className="bg-white text-black w-full h-[40px] text-[20px] border-2 border-gray-300"
               />
             </label>
           </div>
@@ -129,7 +129,7 @@ export default function Contact() {
               value={form.subject}
               onChange={handleChange}
               required
-              className="bg-white text-black w-full h-[40px] text-[30px] border-2 border-gray-300"
+              className="bg-white text-black w-full h-[40px] text-[20px] border-2 border-gray-300"
             />
           </label>
 
