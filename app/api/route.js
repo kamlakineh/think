@@ -2,10 +2,10 @@ import { NextResponse } from "next/server";
 import axios from "axios";
 
 export async function GET() {
-  const cloudName = "dchdtvc6z";
-  const folderName = "myfile";
-  const apiKey = "729599315354329";
-  const apiSecret = "WgR4ZjVotTTO5V-L_1ljxfLgt7g";
+  const cloudName = "dhyohf42x";
+  const folderName = "myfolder";
+  const apiKey = "831122935673456";
+  const apiSecret = "iwzoTJ6MuzwbRcumtIihLXd1zAw";
 
   const auth = Buffer.from(`${apiKey}:${apiSecret}`).toString("base64");
 
