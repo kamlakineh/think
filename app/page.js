@@ -194,7 +194,7 @@ export default function Home() {
       <div className="pt-[50px]">
         <div className="flex flex-col items-center">
           <p className="md:text-[60px] text-[40px] text-teal-950 font-extrabold text-center">
-            OUT CLIENTS
+            OUR CLIENTS
           </p>
           <div className="w-[20%] border-b-4 border-orange-800 m-1"></div>
         </div>
