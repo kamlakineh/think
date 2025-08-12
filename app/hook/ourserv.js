@@ -48,7 +48,7 @@ export default function Services() {
         {service.map((item, index) => (
           <ul
             key={index}
-            className=" bg-white text-teal-950 p-[20px] shadow-2xl shadow-gray-500 rounded-3xl group"
+            className=" bg-teal-950 text-white p-[20px] shadow-2xl shadow-gray-500 rounded-3xl group"
           >
             <div className=" bg-gray-200 rounded-[50%] w-[60px] h-[60px] flex justify-center items-center transition-transform duration-300 group-hover:rotate-[60deg] group-hover:bg-amber-700">
               <img src={item.image} className="h-[30px] w-[30px]" />
