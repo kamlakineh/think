@@ -14,7 +14,7 @@ export default function About() {
           the right influencers to help your brand grow in a way that lasts.
           Think beyond posts. Think transformation. Think Digitals.
         </p>
-        <div className="experience-float ml-[40%] bg-teal-950 shadow-2xl shadow-orange-500 flex items-center gap-x-[20px] p-[20px] rounded-4xl">
+        <div className="experience-float ml-[40%] bg-teal-700 shadow-2xl shadow-gray-500 flex items-center gap-x-[20px] p-[20px] rounded-4xl">
           <img src="/images/phone.png" className="h-[50px] w-[50px]" />
           <div className="flex flex-col gap-y-[5px] text-white">
             <p>call us anytime</p>
