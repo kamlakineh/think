@@ -58,7 +58,7 @@ export default function Footer() {
           </p>
         </div>
       </div>
-      <p>© 2025 Gursha Production. All Rights Reserved.</p>
+      <p>© 2025 Think digital. All Rights Reserved.</p>
     </footer>
   );
 }
